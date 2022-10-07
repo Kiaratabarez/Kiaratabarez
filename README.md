@@ -1,2 +1,2 @@
 ### Hi there
-Soy Kiara una chica que es apasionada por la Robotica.
+I'm Kiara a girl who is passionate about robotics.
